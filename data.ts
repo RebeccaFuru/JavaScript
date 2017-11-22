@@ -1,4 +1,4 @@
-let movieData = {
+export const movieData = {
  title: "Lejonkungen",
  description: "Det är en stor dag i Lejonriket när lejonungen Simba föds. Han ska en dag ta över sin pappa Mufasas roll och förvandlas från lejonungen till Lejonkungen! Alla jublar utom Scar, Mufasas lömske bror, som själv skulle vilja sitta på tronen." + 
  "Tiden går och den nyfikne Simba får lära sig mer och mer om sitt blivande rike. Han följer sin pappa, får kloka råd av babianen Rafiki och busar med kompisen Nala." + 
